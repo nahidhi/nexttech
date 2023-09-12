@@ -8,7 +8,7 @@ public class Lec5hashmap {
 		//hashmap
 		//we store pair value
 		//store 4 state and city name
-//Hashmap<datatype1,dataype2>variable name=Hashmap<datatype1,datatype2>();		
+//Hashmap<datatype1,dataype2>variable name=new Hashmap<datatype1,datatype2>();		
 
 		HashMap<String,String>citystate=new HashMap<String,String>();
 

@@ -11,6 +11,7 @@ abstract class lec10abstract {
 	 * 
 	 * java implements:
 	 * 1. Interface is not a class but abstract class and interface methode hide the code
+	 * interfaces is a special class
 	 * 2.to declare interface have to use interface keyword
 	 * 3. interface allows only interface method 
 	 * 4.to write interface method we do not need to declare interface key word 
